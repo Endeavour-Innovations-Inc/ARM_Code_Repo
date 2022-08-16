@@ -1,2 +1,2 @@
-# ARM_Code_Repo
-This repository contains essential projects for ARM written in Assembly and Embedded C primer for E_E 234 course
+# ARM_ADC_Final_Project
+This repository contains final project for microcontrollers course written in C. In this project, ADC servo input is sent to the LEDs.
